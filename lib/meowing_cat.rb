@@ -6,3 +6,4 @@ class catch
     puts "meow!"
   end
 end
+
