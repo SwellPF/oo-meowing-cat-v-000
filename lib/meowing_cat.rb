@@ -5,3 +5,4 @@ class catch
   def meow
     puts "meow!"
   end
+end
